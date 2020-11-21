@@ -1,4 +1,4 @@
-TheDoctor's resourcepack V1.2
+TheDoctor's resourcepack V1.3
 
 This is the resourcepack that I use for all my recordings, it contains stuff like:
 
@@ -11,12 +11,8 @@ This is the resourcepack that I use for all my recordings, it contains stuff lik
 
 
 Changelog
-* Added Mason Brick to sword rack
-* Removed unused files
-* Reworked entire resourcepack
-* Fixed 3d models
-* Fixed blocks having break particles (They're gone again)
-* Fixed held items not being in correct orientation (radiant blade for example)
+* Updated sounds
+* Updated MCPatcher files for lobby items
 
 If you encounter any issues, please PM me on discord TheDoctor#4393
 
