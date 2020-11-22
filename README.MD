@@ -1,4 +1,4 @@
-TheDoctor's resourcepack V1.3
+TheDoctor's resourcepack V1.3.1
 
 This is the resourcepack that I use for all my recordings, it contains stuff like:
 
@@ -13,6 +13,9 @@ This is the resourcepack that I use for all my recordings, it contains stuff lik
 Changelog
 * Updated sounds
 * Updated MCPatcher files for lobby items
+* Updated Sprocket helmet model
+* Updated Melia bow files old virendra
+
 
 If you encounter any issues, please PM me on discord TheDoctor#4393
 
