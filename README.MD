@@ -6,8 +6,10 @@ This is the resourcepack that I use for all my recordings, it contains stuff lik
 * A base 64x pack
 * Black bricks (because screw blue bricks)
 * Transparant(ish) GUI
-* Custom Item Textures for in the lobby and in-game
+* Custom Item Textures for in the lobby and in-game **
 * different font
+
+** Requires Optifine!
 
 If you encounter any issues, please PM me on discord TheDoctor#4393
 
@@ -19,6 +21,9 @@ Credits:
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 
 =====================================================================
+Changelog 1.4
+* Added a copy of the pack with the holiday textures
+* Updated Sprocket texture
 
 Changelog 1.3.2
 * Added new options background (can be reversed)
