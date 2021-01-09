@@ -21,6 +21,9 @@ Credits:
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 
 =====================================================================
+Changelog 1.4.2
+* Removed the christmas pack
+
 Changelog 1.4
 * Added a copy of the pack with the holiday textures
 * Updated Sprocket texture
