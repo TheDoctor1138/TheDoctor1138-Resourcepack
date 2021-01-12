@@ -1,4 +1,4 @@
-TheDoctor's resourcepack V1.3.2
+TheDoctor's resourcepack V1.5
 
 This is the resourcepack that I use for all my recordings, it contains stuff like:
 
@@ -9,7 +9,7 @@ This is the resourcepack that I use for all my recordings, it contains stuff lik
 * Custom Item Textures for in the lobby and in-game **
 * different font
 
-** Requires Optifine!
+** Optifine 1.8.8/9 I7 or above required
 
 If you encounter any issues, please PM me on discord TheDoctor#4393
 
@@ -21,6 +21,13 @@ Credits:
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 
 =====================================================================
+Changelog 1.5
+* Added new bow texture (Thanks, JT)
+* Added rebirth CIT (Thanks, shovel)
+* Added border around armor icons (Survival inventory)
+* Ajusted weight values for both the sword and bowracks
+* Fixed the misaligned creative inventory
+
 Changelog 1.4.2
 * Removed the christmas pack
 
