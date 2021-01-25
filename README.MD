@@ -21,6 +21,11 @@ Credits:
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 
 =====================================================================
+Changelog 1.6
+* Added frog textures
+* Added frog sounds
+* Fixed Sprocket head
+
 Changelog 1.5.1
 
 * Fixed Orb of Rebirth not having a CIT
