@@ -1,4 +1,4 @@
-TheDoctor's resourcepack V1.5
+TheDoctor's resourcepack V1.7
 
 This is the resourcepack that I use for all my recordings, it contains stuff like:
 
@@ -8,8 +8,9 @@ This is the resourcepack that I use for all my recordings, it contains stuff lik
 * Transparant(ish) GUI
 * Custom Item Textures for in the lobby and in-game **
 * different font
+* Different sounds (AudioCraft)
 
-** Optifine 1.8.8/9 I7 or above required
+** Optifine 1.8.8/9 M5 or above required
 
 If you encounter any issues, please PM me on discord TheDoctor#4393
 
@@ -19,8 +20,13 @@ Credits:
 * Custom Item Textures: Shovel's Pack: Shovel™#0001 (discord)
 * Font: Prime's HD Textures: https://primemods.net/hd-textures/
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
+* AudioCraft: https://www.curseforge.com/minecraft/texture-packs/audiocraft
 
 =====================================================================
+Changelog 1.7
+* Addes new sounds
+* Adjusted pack name
+
 Changelog 1.6
 * Added frog textures
 * Added frog sounds
