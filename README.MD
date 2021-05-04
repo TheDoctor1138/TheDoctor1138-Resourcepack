@@ -16,15 +16,22 @@ If you encounter any issues, please PM me on discord TheDoctor#4393
 
 Credits:
 * Base pack: Minecraft HD64: https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2209477-minecraft-hd-64x-10-29-new-log-textures-and-horse
-* DvZ Textures: https://coathar.com/guide/Resource_Packs
+* DvZ Textures: https://coathar.com/guide/Resource_Packs Upscaled by: me
 * Custom Item Textures: Shovel's Pack: Shovel™#0001 (discord)
 * Font: Prime's HD Textures: https://primemods.net/hd-textures/
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
-* AudioCraft: https://www.curseforge.com/minecraft/texture-packs/audiocraft
 
 =====================================================================
+
+Changelog 1.8
+* Added wolf textures
+* Upscaled the DvZ textures to 64x [wip]
+* Upscaled Weapons and special hero items to 128x [wip]
+* Reverted the sound changes from 1.7
+* Fixed inside mushroom block looking like slime
+
 Changelog 1.7
-* Addes new sounds
+* Added new sounds
 * Adjusted pack name
 
 Changelog 1.6
@@ -57,8 +64,6 @@ Changelog 1.3.2
 * Added CIT for vampirism (Thanks, Shovel... again xD )
 * Updated sounds.json
 * Updated bedrock texture to be 64x
-
-=====================================================================
 
 Changelog 1.3.1
 * Updated sounds
