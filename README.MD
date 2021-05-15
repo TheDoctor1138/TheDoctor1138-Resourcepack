@@ -22,6 +22,9 @@ Credits:
 * Custom Sky: Dramatic skys: https://www.curseforge.com/minecraft/texture-packs/dramatic-skys
 
 =====================================================================
+Changelog 1.8.1
+* Adjusted some weapon textures that were upscaled in the last update
+* Fixed a mushroom block texture not appearing correctly
 
 Changelog 1.8
 * Added wolf textures
