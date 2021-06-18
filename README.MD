@@ -1,4 +1,4 @@
-TheDoctor's resourcepack V1.7
+TheDoctor's resourcepack V1.8.1
 
 This is the resourcepack that I use for all my recordings, it contains stuff like:
 
